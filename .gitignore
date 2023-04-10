@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ContosoCrafts.WebSite/DesignTimeBuild/.dtbcache.v2
+/.vs/ContosoCrafts.WebSite/FileContentIndex/50e1b25c-e6a1-4d41-95f6-d3a6474805e2.vsidx
+/.vs/ContosoCrafts.WebSite/FileContentIndex/a554e2a2-484d-4874-ba1c-0cc14c2993ca.vsidx
+*.vsidx
+/.vs/ContosoCrafts.WebSite/FileContentIndex/f53f2ef4-ad08-4377-ace2-676c7f3f7112.vsidx
+/.vs/ContosoCrafts.WebSite/FileContentIndex/f53f2ef4-ad08-4377-ace2-676c7f3f7112.vsidx
+/.vs/ContosoCrafts.WebSite/FileContentIndex/a554e2a2-484d-4874-ba1c-0cc14c2993ca.vsidx
